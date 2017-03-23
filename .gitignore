@@ -36,3 +36,8 @@ Makefile*
 # QtCtreator CMake
 CMakeLists.txt.user
 
+#Others
+*.app
+.exe
+.DS_Store
+moc_predefs.h
